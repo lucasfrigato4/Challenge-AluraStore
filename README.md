@@ -62,8 +62,8 @@ Com base nos dados, a **Loja 4** se mostrou a **menos viável**, por ter o **men
 
 ## ✍️ Autor
 
-Feito com dedicação por **[Lucas Frigato]** 👨‍💻  
-📧 Contato: [lucasfrigato@gmail.com]  
+Feito com dedicação por **Lucas Frigato** 👨‍💻  
+📧 Contato: lucasfrigato@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-frigato-907097365/)
 
 ---
